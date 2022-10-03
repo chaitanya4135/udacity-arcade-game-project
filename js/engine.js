@@ -116,7 +116,7 @@ var Engine = (function(global) {
                 'images/grass-block.png'    // Row 3 of 3 of grass
             ],
             numRows = 7,
-            numCols = 5,
+            numCols = 6,
             row, col;
 
         // Before drawing, clear existing canvas
